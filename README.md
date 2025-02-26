@@ -6,3 +6,7 @@
   <li>Respondive Design(media queries)</li>
   <li>CSS</li>
 </ul>
+<h3>Installation</h3><br>
+<ol>
+  <li> Clone the repository</li>
+</ol>
