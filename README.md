@@ -5,8 +5,6 @@
   <li>
     HTML
   </li
-    <li>
-      CSS
-    </li>
+    <li>CSS</li>
   <li>Respondive Design(media queries)</li>
 </ol>
