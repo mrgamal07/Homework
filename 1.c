@@ -8,7 +8,6 @@ int queue[MAXSIZE], front = -1, rear = -1;
 void enqueue();
 void dequeue();
 void display();
-
 int main() {
     int choice;
     while (1) {
